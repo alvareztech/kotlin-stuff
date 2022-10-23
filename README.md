@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="200" height="200" src="/images/kotlin_logo.svg">
+  <img width="160" height="160" src="/images/kotlin_logo.svg">
 </p>
 
 ## Algorithms
