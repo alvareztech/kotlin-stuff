@@ -9,3 +9,5 @@ fun binarySearch(numbers: IntArray, target: Int): Int {
     }
     return index
 }
+
+binarySearch()
